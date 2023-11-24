@@ -14,10 +14,8 @@ Submission Mode:
 Step 1: Code checks on GitHub / GitLab
 Step 2: Publish on any free server such as Vercel for UI checks
 Email both the links back.
-Resources:
-
-https://www.figma.com/proto/L584B59InU0kdMS1bSlWrg/Untitled?page-
-id=0%3A1&type=design&node-id=0-
-
-809&viewport=498%2C744%2C0.12&t=3AcXaVPYA1GpP53o-1&scaling=min-zoom&starting-
-point-node-id=0%3A271&mode=design
+# Tech Used :
+React Js
+Tailwind Css
+React icons 
+Antd 
